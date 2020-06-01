@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/applicationReact/static/css/main.981f7211.chunk.css",
-    "main.js": "/applicationReact/static/js/main.72746354.chunk.js",
-    "main.js.map": "/applicationReact/static/js/main.72746354.chunk.js.map",
+    "main.css": "/applicationReact/static/css/main.103fd6a1.chunk.css",
+    "main.js": "/applicationReact/static/js/main.da3635f9.chunk.js",
+    "main.js.map": "/applicationReact/static/js/main.da3635f9.chunk.js.map",
     "runtime-main.js": "/applicationReact/static/js/runtime-main.279d8f06.js",
     "runtime-main.js.map": "/applicationReact/static/js/runtime-main.279d8f06.js.map",
     "static/css/2.86df01db.chunk.css": "/applicationReact/static/css/2.86df01db.chunk.css",
-    "static/js/2.a7d62ee3.chunk.js": "/applicationReact/static/js/2.a7d62ee3.chunk.js",
-    "static/js/2.a7d62ee3.chunk.js.map": "/applicationReact/static/js/2.a7d62ee3.chunk.js.map",
+    "static/js/2.a53f57f3.chunk.js": "/applicationReact/static/js/2.a53f57f3.chunk.js",
+    "static/js/2.a53f57f3.chunk.js.map": "/applicationReact/static/js/2.a53f57f3.chunk.js.map",
     "index.html": "/applicationReact/index.html",
-    "precache-manifest.74d97382813de0b507d4af13dfd1c911.js": "/applicationReact/precache-manifest.74d97382813de0b507d4af13dfd1c911.js",
+    "precache-manifest.a5f879904472b467e850142cd7336a85.js": "/applicationReact/precache-manifest.a5f879904472b467e850142cd7336a85.js",
     "service-worker.js": "/applicationReact/service-worker.js",
     "static/css/2.86df01db.chunk.css.map": "/applicationReact/static/css/2.86df01db.chunk.css.map",
-    "static/css/main.981f7211.chunk.css.map": "/applicationReact/static/css/main.981f7211.chunk.css.map",
-    "static/js/2.a7d62ee3.chunk.js.LICENSE.txt": "/applicationReact/static/js/2.a7d62ee3.chunk.js.LICENSE.txt",
+    "static/css/main.103fd6a1.chunk.css.map": "/applicationReact/static/css/main.103fd6a1.chunk.css.map",
+    "static/js/2.a53f57f3.chunk.js.LICENSE.txt": "/applicationReact/static/js/2.a53f57f3.chunk.js.LICENSE.txt",
+    "static/media/hGFcfhVyfbs.png": "/applicationReact/static/media/hGFcfhVyfbs.36ec0639.png",
     "static/media/persik.png": "/applicationReact/static/media/persik.4e1ec840.png"
   },
   "entrypoints": [
     "static/js/runtime-main.279d8f06.js",
     "static/css/2.86df01db.chunk.css",
-    "static/js/2.a7d62ee3.chunk.js",
-    "static/css/main.981f7211.chunk.css",
-    "static/js/main.72746354.chunk.js"
+    "static/js/2.a53f57f3.chunk.js",
+    "static/css/main.103fd6a1.chunk.css",
+    "static/js/main.da3635f9.chunk.js"
   ]
 }

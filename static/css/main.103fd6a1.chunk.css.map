@@ -1,0 +1,1 @@
+{"version":3,"sources":["Persik.css"],"names":[],"mappings":"AAAA,QAEE,SAAU,CACV,eAEF,CAEA,mBANE,aAAc,CAGd,gBAQF,CALA,WAEE,UAAW,CACX,eAEF","file":"main.103fd6a1.chunk.css","sourcesContent":[".Persik {\n  display: block;\n  width: 30%;\n  max-width: 240px;\n  margin: 20px auto;\n}\n\n.ImageFont {\n  display: block;\n  width: 100%;\n  max-width: 640px;\n  margin: 20px auto;\n}"]}
